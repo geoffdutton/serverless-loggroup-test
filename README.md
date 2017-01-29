@@ -1,4 +1,5 @@
 ## Serverless 1.5.1 Error
+There error in question is discussed here: https://github.com/serverless/serverless/issues/2614
 
 Using serverless 1.5.1:
 ```
